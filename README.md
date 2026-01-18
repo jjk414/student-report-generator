@@ -1,6 +1,5 @@
-# student-report-generator
 # 📊 Student & Course Progress Analyzer 
-(Beginner Python Project)
+# Beginner Python Project
 
 This is my **first Python project**, built to practice core Python concepts like **dictionaries, file handling, command-line arguments, templating, and basic data visualization**. 🎉
 
