@@ -59,7 +59,7 @@ If wrong inputs are given, the program generates an **error HTML page**.
 
 ```
 .
-├── main.py            # Main Python script
+├── app.py             # Main Python script
 ├── data.csv           # Input dataset (student, course, marks)
 ├── progress.html      # Generated HTML output
 ├── histogram.png      # Generated histogram (course mode)
