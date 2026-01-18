@@ -95,7 +95,7 @@ pip install matplotlib jinja2
 ### 🔹 Student-wise Report
 
 ```bash
-python main.py -s 1001
+python app.py -s 1001
 ```
 
 ✔ Generates `progress.html` showing student details and total marks
@@ -105,7 +105,7 @@ python main.py -s 1001
 ### 🔹 Course-wise Report
 
 ```bash
-python main.py -c 2001
+python app.py -c 2001
 ```
 
 ✔ Generates:
